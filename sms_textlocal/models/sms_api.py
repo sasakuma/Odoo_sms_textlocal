@@ -6,7 +6,7 @@ from odoo.exceptions import UserError
 from odoo.addons.iap.models import iap
 import requests
 DEFAULT_ENDPOINT = 'https://api.textlocal.in'
-DEFAULT_SENDER = 'INNOVIK'
+DEFAULT_SENDER = 'MaxVueTech'
 
 
 class SmsApi(models.AbstractModel):
