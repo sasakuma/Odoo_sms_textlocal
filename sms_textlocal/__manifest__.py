@@ -18,9 +18,12 @@ The service is provided by the In App Purchase Odoo platform.
     ],
     'qweb': [
     ],
+    "images":[
+        "static/src/img/Textlocal_Logo.png"
+],
     'installable': True,
     'auto_install': True,
-    'license': 'OEEL-1',
-    'price':20,
-    'currency':'INR',
+    'license': 'Other proprietary',
+    'price':29,
+    'currency':'EUR',
 }
