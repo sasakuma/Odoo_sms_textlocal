@@ -23,7 +23,4 @@ The service is provided by the In App Purchase Odoo platform.
 ],
     'installable': True,
     'auto_install': True,
-    'license': 'Other proprietary',
-    'price':29,
-    'currency':'EUR',
 }
